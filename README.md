@@ -7,6 +7,9 @@ A series of Colab (Jupyter) notebooks that walk you through the fundamentals of 
 
 This is a graduate elective course in the general theme of artificial intelligence (AI) and will teach you about algorithms to extract information from images and video. We will learn about the problems of segmentation, tracking, extraction of geometric transforms in images, estimation of 3D information from a 2D image(s), and object detection and recognition using traditional and deep learning methods. 
 
+### Installation
+
+Clone this repository. See how to do it  -- https://www.geeksforgeeks.org/how-to-clone-github-repository-and-push-changes-in-colaboratory/
 
 ### Course Objectives
 
