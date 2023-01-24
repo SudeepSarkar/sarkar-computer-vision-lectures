@@ -5,7 +5,7 @@ taught by Prof. Sudeep Sarkar, University of South Florida, Tampa, USA
 
 A series of Colab (Jupyter) notebooks that walk you through the fundamentals of Computer Vision in python/opencv/pytorch/numpy/scipy. 
 
-This is a graduate elective course in the general theme of artificial intelligence (AI) and will teach you about algorithms to extract information from images and video. We will learn about the problems of segmentation, tracking, extraction of geometric transforms in images, estimation of 3D information from a 2D image(s), and object detection and recognition using traditional and deep learning methods. 
+This is an elective course in the general theme of artificial intelligence (AI) and will teach you about algorithms to extract information from images and video. We will learn about the problems of segmentation, tracking, extraction of geometric transforms in images, estimation of 3D information from a 2D image(s), and object detection and recognition using traditional and deep learning methods. 
 
 ### Installation
 
