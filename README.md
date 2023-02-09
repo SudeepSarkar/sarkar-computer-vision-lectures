@@ -48,9 +48,9 @@ The course is divided into 9 modules, each covering a topic area in computer vis
   - Module 3.3: Linear filtering, Gaussian convolutions, and its derivatives (Section 3.2) 
 - Module 4: Point features and matching (Chapters 3)
   - Lecture 4.1: Multiresolution representations (image pyramids) (Section 3.5)
-  - Lecture 4.2: SIFT feature detector and descriptor (Section 7.1)
-  - Lecture 4.3: Feature matching, Hungarian, kinds of errors, ROC curves (Section 7.1.3)
-  - Lecture 4.4: Estimating 2D to 2D matching
+  - Lecture 4.2: SIFT feature detector, descriptor, and matching (Section 7.1)
+  - Lecture 4.3: Linear estimation of 2D to 2D matching
+  - Lecture 4.4: Non-linear estimation of 2D to 2D matching
 - Module 5: Object labeling using Deep Learning (Chapters 5 and 6)
   - Lecture 5.1: Deep Learning Networks basics – Single layer network with regression (Section 5.3)
   - Lecture 5.2: Multilayer Perceptron (MLP) (Section 5.3)
